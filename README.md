@@ -9,4 +9,6 @@ This in the DEV Branch
 
 Add one more line here.
 
-Add a loine that will become merge conflict
+Add a line that will become merge conflict
+
+fsdajkskljjsadklfjkl
